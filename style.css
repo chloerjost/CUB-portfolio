@@ -1,5 +1,5 @@
-h1 {color: slategray;}
-h2 {color: lightslategray;}
+h1 {color: rgb(64,64,64);}
+h2 {color: rgb(120,120,120);}
 ul.main-menu {
     list-style-type: none;
     margin: 0;
