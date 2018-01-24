@@ -1,4 +1,4 @@
-#rectangle{width: 2000px; height: 100px; background: rgb(245,245,245); position: fixed; top: 0; left: 0; z-index: -1;}
+#rectangle{width: 2000px; height: 120px; background: rgb(245,245,245); position: fixed; top: 0; left: 0; z-index: -1;}
 body {font-family: helvetica;}
 body {margin: 3% 10%;}
 a {text-decoration: none;}
