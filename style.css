@@ -1,6 +1,6 @@
 body {font-family: helvetica;}
 body {margin: 3% 10%;}
-.main-menu {background-color: hsl(50,90%,95%); width: 500%; height: 1000%; margin: 0; float: left;}
+.main-menu {background-color: hsl(50,90%,95%); width: 400%; height: 600%; margin: 0;}
 h1 {color: hsl(180,80%,30%);}
 h2 {color: hsl(0,90%,85%);}
 ul.main-menu {
