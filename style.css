@@ -1,6 +1,6 @@
 body {font-family: helvetica;}
 body {margin: 3% 10%;}
-#rectangle {background-color: rgb(245,245,245); position: fixed; left: 0px; top: 0px; width: 1000px; height: 300px;}
+#rectangle {background: rgb(245,245,245); position: fixed; left: 0px; top: 0px; width: 1000px; height: 300px;}
 a {text-decoration: none;}
 a:link {color: rgb(64,64,64);}
 a:visited {color: rgb(64,64,64);}
