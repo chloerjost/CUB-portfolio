@@ -5,7 +5,7 @@ a:link {color: rgb(64,64,64);}
 a:visited {color: rgb(64,64,64);}
 a:hover {color: rgb(144,144,144);}
 a:active {color: rgb(220,220,220);}
-.main-menu {background-color: hsl(50,90%,95%); width: 500%; height: 600%; margin: 0;}
+.main-menu {background-color: rgb(240,240,240); width: 500%; height: 600%; margin: 0;}
 h1 {color: hsl(180,80%,30%);}
 h2 {color: hsl(0,90%,85%);}
 ul.main-menu {
