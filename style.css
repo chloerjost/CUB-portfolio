@@ -1,5 +1,6 @@
 body {font-family: helvetica;}
 body {margin: 3% 10%;}
+a:link {color: rgb(144,144,144);}
 a:visited {color: rgb(64,64,64);}
 a:hover {color: rgb(144,144,144);}
 a:active {color: rgb(144,144,144);}
