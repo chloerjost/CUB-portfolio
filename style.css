@@ -1,8 +1,8 @@
 body {font-family: helvetica;}
 body {margin: 3% 10%;}
-.main-menu {background-color: hsl(170,35%,95%);}
+.main-menu {background-color: hsl(20,90%,85%);}
 h1 {color: hsl(180,80%,30%);}
-h2 {color: hsl(20,90%,85%);}
+h2 {color: hsl(0,90%,85%);}
 ul.main-menu {
     list-style-type: none;
     margin: 0;
