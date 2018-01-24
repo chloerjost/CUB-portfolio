@@ -1,6 +1,6 @@
 body {font-family: helvetica;}
 body {margin: 0% 10%;}
-h1 {color: rgb(64,64,64);}
+h1 {color: hsl(180,90%,30%);}
 h2 {color: rgb(120,120,120);}
 ul.main-menu {
     list-style-type: none;
