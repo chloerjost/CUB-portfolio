@@ -13,5 +13,5 @@ ul.main-menu {
     padding: 0;
 }
 ul.main-menu>li {
-    display: block; overflow: auto;
+    display: block; overflow: auto; float: left;
 }
