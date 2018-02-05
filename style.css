@@ -12,4 +12,4 @@ h2 {color: hsl(0,100%,80%);}
 h3 {color: hsl(0,90%,90%);}
 ul.main-menu {list-style-type: none; margin: 0; padding: 0;}
 ul.main-menu>li {display: block;}
-footer {position: fixed; left: 70px; bottom: 30px;}
+footer {position: fixed; bottom: 30px;}
