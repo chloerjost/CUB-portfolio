@@ -15,4 +15,4 @@ ul.main-menu {list-style-type: none;}
 ul.main-menu>li {display: block;}
 footer {position: fixed; bottom: 30px;}
 ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0;}
-ul.main-menu.bottom>li {display: inline;}
+ul.main-menu-bottom>li {display: inline;}
