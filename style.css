@@ -1,4 +1,5 @@
-body {font-family: helvetica; position: fixed; left: 640px; top: 300px;}
+body {font-family: helvetica; position: fixed; top: 300px;}
+div.homepage {align: center;}
 a {text-decoration: none;}
 h1 {color: hsl(180,80%,30%); list-style-type: none;}
 h1 a {position: fixed; left: 640px; top: 200px;}
