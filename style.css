@@ -1,6 +1,6 @@
 body {font-family: helvetica;}
 a {text-decoration: none;}
-h1 {color: hsl(180,80%,30%)}
+h1 {color: hsl(180,80%,30%); list-style-type: none; margin: 0; padding: 0;}
 ul a:link {color: rgb(64,64,64);}
 ul a:visited {color: rgb(64,64,64);}
 ul a:hover {color: rgb(144,144,144);}
