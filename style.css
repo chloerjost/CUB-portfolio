@@ -10,11 +10,5 @@ ul a:visited {color: rgb(64,64,64);}
 ul a:hover {color: rgb(144,144,144);}
 ul a:active {color: rgb(240,240,240);}
 h2 {color: hsl(0,90%,85%);}
-ul.main-menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-ul.main-menu>li {
-    display: block;
-}
+ul.main-menu {list-style-type: none; margin: 0; padding: 0;}
+ul.main-menu>li {display: block;}
