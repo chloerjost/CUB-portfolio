@@ -16,3 +16,4 @@ ul.main-menu>li {display: block;}
 footer {position: fixed; bottom: 30px;}
 ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0; position: fixed; bottom: 70px;}
 ul.main-menu-bottom>li {display: inline;}
+li.menu-item {margin: 0 15px 0 0;}
