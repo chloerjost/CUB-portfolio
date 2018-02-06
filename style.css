@@ -1,7 +1,8 @@
-body {font-family: helvetica; position: fixed; left: 640px; top: 300px;}
+body {font-family: helvetica;}
 a {text-decoration: none;}
-h1 {color: hsl(180,80%,30%); list-style-type: none;}
-h1 a {position: fixed; left: 640px; top: 200px;}
+main {position: fixed; left: 400px; top: 350px;}
+h1 {color: hsl(180,80%,30%); list-style-type: none; text-align: center; position: fixed; top: 300px;}
+h1 a {text-align: center; position: fixed; top: 200px;}
 h1 a:link {color: hsl(180,80%,30%);}
 h1 a:visited {color: hsl(180,80%,30%);}
 h1 a:hover {color: hsl(180,50%,60%);}
@@ -13,7 +14,7 @@ h2 {color: hsl(0,100%,80%);}
 h3 {color: hsl(0,90%,90%);}
 ul.main-menu {list-style-type: none;}
 ul.main-menu>li {display: block;}
-footer {position: fixed; bottom: 30px;}
-ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0; position: fixed; bottom: 70px;}
+footer {text-align: center; position: fixed; bottom: 30px;}
+ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0; text-align: center; position: fixed; bottom: 70px;}
 ul.main-menu-bottom>li {display: inline;}
 li.menu-item {margin: 0 10px 0 0;}
