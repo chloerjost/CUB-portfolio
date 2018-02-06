@@ -17,6 +17,6 @@ li.home-menu-item {margin: 0 0 5px 0;}
 footer {text-align: center; position: fixed; left: 45%; right: 45%; bottom: 30px;}
 footer {display: inline;}
 footer.home-footer {position: fixed; left: 570px; bottom: 30px;}
-ul.main-menu-bottom {list-style-type: none; margin: 0 0 0 15px; padding: 0; position: fixed; left: 30%; right: 30%; bottom: 70px;}
+ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0 0 0 20px; position: fixed; left: 30%; right: 30%; bottom: 70px;}
 ul.main-menu-bottom>li {display: inline;}
 li.menu-item {margin: 0 10px 0 0;}
