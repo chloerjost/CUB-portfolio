@@ -16,7 +16,7 @@ ul.main-menu>li {display: block;}
 li.home-menu-item {margin: 0 0 5px 0;}
 footer {text-align: center; position: fixed; left: 45%; right: 45%; bottom: 30px;}
 footer {display: inline;}
-footer.home-footer {position: fixed; left: 600px; bottom: 30px;}
-ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0; position: fixed; left: 33%; right: 33%; bottom: 70px;}
+footer.home-footer {position: fixed; left: 580px; bottom: 30px;}
+ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0; position: fixed; left: 31%; right: 31%; bottom: 70px;}
 ul.main-menu-bottom>li {display: inline;}
 li.menu-item {margin: 0 10px 0 0;}
