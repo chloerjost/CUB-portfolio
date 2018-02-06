@@ -8,7 +8,7 @@ h1 a:hover {color: hsl(180,50%,60%);}
 h1 a:active {color: hsl(180,80%,30%);}
 ul a:link {color: hsl(0,0%,30%);}
 ul a:visited {color: hsl(0,0%,30%);}
-ul a:hover {color: hsl(0,0%,70%);}
+ul a:hover {font-color: hsl(0,0%,70%); background-color: hsl(60,100%,95%);}
 h2 {color: hsl(0,100%,80%);}
 h3 {color: hsl(0,90%,90%);}
 ul.main-menu {list-style-type: none; position: fixed; top: 350px; left: 640px;}
@@ -17,6 +17,6 @@ li.home-menu-item {margin: 0 0 5px 0;}
 footer {text-align: center; position: fixed; left: 45%; right: 45%; bottom: 30px;}
 footer {display: inline;}
 footer.home-footer {position: fixed; left: 560px; bottom: 30px;}
-ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0 0 0 25px; position: fixed; left: 30%; right: 30%; bottom: 70px;}
+ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0 0 0 28px; position: fixed; left: 30%; right: 30%; bottom: 70px;}
 ul.main-menu-bottom>li {display: inline;}
 li.menu-item {margin: 0 10px 0 0;}
