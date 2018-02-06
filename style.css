@@ -13,8 +13,9 @@ h2 {color: hsl(0,100%,80%);}
 h3 {color: hsl(0,90%,90%);}
 ul.main-menu {list-style-type: none; position: fixed; top: 350px; left: 640px;}
 ul.main-menu>li {display: block;}
+li.home-menu-item {margin: 0 0 5px 0;}
 footer {text-align: center; position: fixed; left: 45%; right: 45%; bottom: 30px;}
 footer {display: inline;}
-ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0; position: fixed; bottom: 70px;}
+ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0; position: fixed; left: 30%; right: 30%; bottom: 70px;}
 ul.main-menu-bottom>li {display: inline;}
 li.menu-item {margin: 0 10px 0 0;}
