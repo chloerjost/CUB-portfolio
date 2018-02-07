@@ -19,7 +19,7 @@ h3 {color: hsl(0,90%,90%);}
 ul.sublinks {list-style-type: none;}
 ul.sublinks>li {display: block;}
 li.sublink-item {margin: 0 0 5px 0;}
-ul.main-menu {list-style-type: none; position: fixed; top: 350px; left: 50%;}
+ul.main-menu {list-style-type: none; position: fixed; top: 350px; left: 45%;}
 ul.main-menu>li {display: block;}
 li.home-menu-item {margin: 0 0 5px 0;}
 footer {text-align: center; position: fixed; left: 45%; right: 45%; bottom: 70px;}
