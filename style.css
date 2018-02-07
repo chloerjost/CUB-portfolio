@@ -1,7 +1,7 @@
 body {font-family: helvetica;}
 p {margin-bottom: 120px;}
 a {text-decoration: none;}
-h1 {color: hsl(180,80%,30%); list-style-type: none; text-align: center; margin: 300px 0 0 0;}
+h1 {color: hsl(180,80%,30%); list-style-type: none; text-align: center; margin: 325px 0 0 0;}
 h1 a {position: fixed; left: 640px; top: 200px;}
 h1 a:link {color: hsl(180,80%,30%);}
 h1 a:visited {color: hsl(180,80%,30%);}
@@ -19,7 +19,7 @@ h3 {color: hsl(0,90%,90%);}
 ul.sublinks {list-style-type: none;}
 ul.sublinks>li {display: block;}
 li.sublink-item {margin: 0 0 5px 0;}
-ul.main-menu {list-style-type: none; position: fixed; top: 350px; left: 40%;}
+ul.main-menu {list-style-type: none; position: fixed; top: 375px; left: 40%;}
 ul.main-menu>li {display: block;}
 li.home-menu-item {margin: 0 0 5px 0;}
 footer {text-align: center; position: fixed; left: 45%; right: 45%; bottom: 70px;}
