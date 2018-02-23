@@ -28,4 +28,10 @@ footer.home-footer {position: fixed; left: 480px; bottom: 70px;}
 ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0 0 0 28px; position: fixed; left: 30%; right: 30%; bottom: 110px;}
 ul.main-menu-bottom>li {display: inline;}
 li.menu-item {margin: 0 10px 0 0;}
-
+#homepageanimation {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  z-index: -100;}
