@@ -22,7 +22,7 @@ li.sublink-item {margin: 0 0 5px 0;}
 ul.main-menu {list-style-type: none; position: fixed; top: 375px; left: 40%;}
 ul.main-menu>li {display: block;}
 li.home-menu-item {margin: 0 0 5px 0;}
-footer {position: fixed; left: 45%; right: 45%; bottom: 70px;}
+footer {text-align: center; position: fixed; left: 45%; right: 45%; bottom: 70px;}
 footer {display: inline;}
 footer.home-footer {position: fixed; left: 480px; bottom: 70px;}
 ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0 0 0 28px; position: fixed; left: 30%; right: 30%; bottom: 110px;}
