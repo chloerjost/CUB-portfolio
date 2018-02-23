@@ -1,7 +1,7 @@
 body {font-family: helvetica;}
 p {margin-bottom: 120px;}
 a {text-decoration: none;}
-h1 {color: hsl(180,80%,30%); list-style-type: none; position: fixed; left: 30%; right: 30%; margin: 325px 0 0 0;}
+h1 {color: hsl(180,80%,30%); list-style-type: none; position: fixed; left: 45%; right: 45%; margin: 325px 0 0 0;}
 h1 a {position: fixed; left: 640px; top: 200px;}
 h1 a:link {color: hsl(180,80%,30%);}
 h1 a:visited {color: hsl(180,80%,30%);}
