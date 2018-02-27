@@ -1,12 +1,12 @@
 body {font-family: helvetica;}
 p {margin-bottom: 120px;}
 a {text-decoration: none;}
-h1 {color: hsl(180,50%,60%); list-style-type: none; text-align: center; position: fixed; left: 30%; right: 30%; margin: 325px 0 0 0;}
+h1 {color: hsl(180,50%,50%); list-style-type: none; text-align: center; position: fixed; left: 30%; right: 30%; margin: 325px 0 0 0;}
 h1 a {position: fixed; left: 640px; top: 200px;}
-h1 a:link {color: hsl(180,50%,60%);}
-h1 a:visited {color: hsl(180,50%,60%);}
+h1 a:link {color: hsl(180,50%,50%);}
+h1 a:visited {color: hsl(180,50%,50%);}
 h1 a:hover {color: hsl(180,40%,80%);}
-h1 a:active {color: hsl(180,50%,60%);}
+h1 a:active {color: hsl(180,50%,50%);}
 ul a:link {color: hsl(0,0%,30%);}
 ul a:visited {color: hsl(0,0%,30%);}
 ul a:hover {font-color: hsl(0,0%,70%); background-color: hsl(180,100%,92%);}
