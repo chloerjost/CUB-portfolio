@@ -7,8 +7,8 @@ h1 a:link {color: hsl(180,50%,50%);}
 h1 a:visited {color: hsl(180,50%,50%);}
 h1 a:hover {color: hsl(180,40%,80%);}
 h1 a:active {color: hsl(180,50%,50%);}
-ul a:link {color: rgb(160,160,160);}
-ul a:visited {color: rgb(160,160,160);}
+ul a:link {color: rgb(152,152,152);}
+ul a:visited {color: rgb(152,152,152);}
 ul a:hover {font-color: rgb(211,211,211); background-color: hsl(180,70%,92%);}
 h2 {color: hsl(0,100%,80%);}
 h2 a:link {color: hsl(0,100%,80%);}
@@ -22,7 +22,7 @@ li.sublink-item {margin: 0 0 5px 0;}
 ul.main-menu {list-style-type: none; position: fixed; top: 375px; left: 40%;}
 ul.main-menu>li {display: block;}
 li.home-menu-item {margin: 0 0 5px 0;}
-footer {text-align: center; position: fixed; left: 45%; right: 45%; bottom: 70px;}
+footer {color: hsl(180,50%,50%); text-align: center; position: fixed; left: 45%; right: 45%; bottom: 70px;}
 footer {display: inline;}
 footer.home-footer {position: fixed; left: 480px; bottom: 70px;}
 ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0 0 0 28px; position: fixed; left: 30%; right: 30%; bottom: 110px;}
