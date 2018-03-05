@@ -35,4 +35,4 @@ li.menu-item {margin: 0 10px 0 0;}
     min-width: 100%; 
     min-height: 100%;
   z-index: -100;}
-img.thumbnail {width: 150px}
+img.thumbnail {width: 125px; display: inline;}
