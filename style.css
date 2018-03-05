@@ -37,7 +37,7 @@ li.menu-item {margin: 0 10px 0 0;}
   z-index: -100;}
 img.thumbnail {width: 125px}
 .overlay {position: absolute; top: 0; bottom: 0; left: 0; right: 0; height: 100%; width: 100%; opacity: 0; transition: .5s ease; background-color: hsl(0,100%,80%);}
-.sublinks:hover .overlay {opacity: 1;}
+.container:hover .overlay {opacity: 1;}
 .text {
   color: white;
   font-size: 20px;
