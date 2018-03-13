@@ -7,12 +7,12 @@ h1 a:link {color: hsl(180,50%,50%);}
 h1 a:visited {color: hsl(180,50%,50%);}
 h1 a:hover {color: hsl(180,40%,80%);}
 h1 a:active {color: hsl(180,50%,50%);}
-ul.main-menu a:link {color: rgb(169,169,169);}
-ul.main-menu a:visited {color: rgb(169,169,169);}
+ul.main-menu a:link {color: rgb(152,152,152);}
+ul.main-menu a:visited {color: rgb(152,152,152);}
 ul.main-menu a:hover {color: rgb(200,200,200);}
 ul.main-menu-bottom a:link {color: hsl(0,100%,80%);}
 ul.main-menu-bottom a:visited {color: hsl(0,100%,80%);}
-ul.main-menu-bottom a:hover {font-color: rgb(211,211,211); background-color: hsl(180,70%,92%);}
+ul a:hover {background-color: hsl(180,70%,92%);}
 h2 {color: hsl(0,100%,80%);}
 h2 a:link {color: hsl(0,100%,80%);}
 h2 a:visited {color: hsl(0,100%,80%);}
