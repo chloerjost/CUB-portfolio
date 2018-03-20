@@ -25,7 +25,7 @@ ul.sublinks>li {display: inline; padding: 10px;}
 ul.main-menu {list-style-type: none; position: relative; margin-top: 375px; margin-left: auto; margin-right: auto;}
 ul.main-menu>li {display: block;}
 li.home-menu-item {margin: 0 0 5px 0;}
-footer {color: hsl(180,50%,50%); text-align: center; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 70px;}
+footer {color: hsl(180,50%,50%); text-align: center; position: relative; margin-left: auto; margin-right: auto; margin-top: 95%;}
 footer {display: inline;}
 footer.home-footer {position: fixed; left: 480px; bottom: 70px;}
 ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0 0 0 28px; position: relative; margin-left: auto; margin-right: auto; vh: 90%}
