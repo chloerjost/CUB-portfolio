@@ -39,9 +39,4 @@ li.menu-item {margin: 0 10px 0 0;}
     min-height: 100%;
     z-index: -100;}
 #mainthumbs {position: fixed; left: 30%; right: 30%; top: 350px;}
-body {
-  width:     50%;
-  min-width: 600px;
-  max-width: 900px;
- text-align: center;
-}
+body {width: 100%; text-align: center;}
