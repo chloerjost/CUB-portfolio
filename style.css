@@ -26,7 +26,14 @@ ul.sublinks {position: relative; margin-left: auto; margin-right: auto; width: 6
 ul.sublinks>li {display: inline-block; padding: 10px;}
 ul.main-menu-bottom a:link {color: hsl(0,100%,80%);}
 ul.main-menu-bottom a:visited {color: hsl(0,100%,80%);}
-ul.main-menu-bottom {list-style-type: none; position: relative; margin-left: auto; margin-right: auto; padding: 0;}
+ul.main-menu-bottom {list-style-type: none;
+  position: absolute;
+  bottom: 50px;
+  height: 60px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;}
 ul.main-menu-bottom>li {display: inline;}
 li.menu-item {padding: 0 14px;}
 footer {
@@ -35,7 +42,7 @@ footer {
   position: absolute;
   bottom:0;
   width:90%;
-  height:60px;
+  height:50px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -55,5 +62,5 @@ body {
   margin-right: auto;
   text-align: center;
   padding: 0;
-  padding-bottom: 50px;
+  padding-bottom: 110px;
 }
