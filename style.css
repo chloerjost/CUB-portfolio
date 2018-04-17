@@ -27,8 +27,8 @@ ul.sublinks>li {display: inline-block; padding: 10px;}
 ul.main-menu-bottom a:link {color: hsl(0,100%,80%);}
 ul.main-menu-bottom a:visited {color: hsl(0,100%,80%);}
 ul.main-menu-bottom {list-style-type: none;
-  position: sticky;
-  bottom: 50px;
+  position: static;
+  bottom: 60px;
   height: 60px;
   width: 90%;
   margin-left: auto;
@@ -39,12 +39,13 @@ li.menu-item {padding: 0 14px;}
 footer {
   color: hsl(180, 50%, 50%);
   text-align: center;
-  position: sticky;
-  bottom:0;
   width:90%;
   height:50px;
   margin-left: auto;
   margin-right: auto;
+  padding: 0;
+  position: static;
+  bottom: 0;
 }
 #homepageanimation {
   position: fixed;
@@ -62,5 +63,5 @@ body {
   margin-right: auto;
   text-align: center;
   padding: 0;
-  padding-bottom: 110px;
+  padding-bottom: 120px;
 }
