@@ -10,8 +10,9 @@ h1 a:active {color: hsl(180,50%,50%);}
 ul.main-menu a:link {color: rgb(152,152,152);}
 ul.main-menu a:visited {color: rgb(152,152,152);}
 ul.main-menu a:hover {color: rgb(200,200,200);}
-ul.main-menu-bottom a:link {color: hsl(0,100%,80%);}
-ul.main-menu-bottom a:visited {color: hsl(0,100%,80%);}
+ul.main-menu {list-style-type: none; position: relative; margin-left: auto; margin-right: auto;}
+ul.main-menu>li {display: block;}
+li.home-menu-item {padding: 0 0 5px 0;}
 ul a:hover {background-color: hsl(180,70%,92%);}
 h2 {color: hsl(0,100%,80%); width: 100%; text-align: center; margin-left: auto; margin-right: auto;}
 h2 a:link {color: hsl(0,100%,80%);}
@@ -21,17 +22,15 @@ h2 a:active {color: hsl(0,100%,80%);}
 h3 {color: hsl(0,90%,90%);}
 img.thumbnail {width: 125px}
 ul.sublinks {list-style-type: none;}
-ul.sublinks {position: fixed; left: 30%; right: 30%; top: 350px;}
-ul.sublinks>li {display: inline; padding: 0;}
+ul.sublinks {position: relative; margin-left: auto; margin-right: auto; width: 60%;}
+ul.sublinks>li {display: inline-block; padding: 0;}
 li.sublink-items {padding: 10x;}
-ul.main-menu {list-style-type: none; position: relative; margin-top: 375px; margin-left: auto; margin-right: auto;}
-ul.main-menu>li {display: block;}
-li.home-menu-item {margin: 0 0 5px 0;}
-footer {color: hsl(180,50%,50%); text-align: center; position: relative; margin-left: auto; margin-right: auto; margin-top: 95%;}
-footer {display: inline;}
-ul.main-menu-bottom {list-style-type: none; margin: 0; padding: 0 0 0 28px; position: relative; margin-left: auto; margin-right: auto; margin-top: 85%;}
+ul.main-menu-bottom a:link {color: hsl(0,100%,80%);}
+ul.main-menu-bottom a:visited {color: hsl(0,100%,80%);}
+ul.main-menu-bottom {list-style-type: none; position: relative; margin-left: auto; margin-right: auto;}
 ul.main-menu-bottom>li {display: inline;}
-li.menu-item {padding: 0 10px 0 0;}
+li.menu-item {padding: 0 14px;}
+footer {color: hsl(180,50%,50%); text-align: center; position: relative; margin-left: auto; margin-right: auto;}
 #homepageanimation {
     position: fixed;
     right: 0;
@@ -39,4 +38,4 @@ li.menu-item {padding: 0 10px 0 0;}
     min-width: 100%; 
     min-height: 100%;
     z-index: -100;}
-body {width: 100%; text-align: center;}
+body {width: 90%; text-align: center;}
