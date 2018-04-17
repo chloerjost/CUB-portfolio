@@ -27,7 +27,7 @@ ul.sublinks>li {display: inline-block; padding: 10px;}
 ul.main-menu-bottom a:link {color: hsl(0,100%,80%);}
 ul.main-menu-bottom a:visited {color: hsl(0,100%,80%);}
 ul.main-menu-bottom {list-style-type: none;
-  position: absolute;
+  position: sticky;
   bottom: 50px;
   height: 60px;
   width: 90%;
@@ -39,7 +39,7 @@ li.menu-item {padding: 0 14px;}
 footer {
   color: hsl(180, 50%, 50%);
   text-align: center;
-  position: absolute;
+  position: sticky;
   bottom:0;
   width:90%;
   height:50px;
