@@ -20,7 +20,8 @@ h2 a:visited {color: hsl(0,100%,80%);}
 h2 a:hover {color: hsl(0,90%,95%);}
 h2 a:active {color: hsl(0,100%,80%);}
 h3 {color: hsl(0,90%,90%);}
-img.thumbnail {width: 125px}
+img.work {padding: 10px;}
+img.thumbnail {width: 125px;}
 ul.sublinks {list-style-type: none;}
 ul.sublinks {position: relative; margin-left: auto; margin-right: auto; width: 60%; padding: 0;}
 ul.sublinks>li {display: inline-block; padding: 10px;}
